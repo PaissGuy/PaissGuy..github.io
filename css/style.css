@@ -14,8 +14,10 @@ header h1
              #7162ec, #000000);
         -webkit-text-fill-color: transparent;
         -webkit-background-clip: text;
-	font-size: 4rem;
-	height: 5.5vh;
+	font-size: 60px;
+	height: auto;
+	width: 100%;
+	margin: 10px;
 }
 
 .left{
@@ -29,13 +31,14 @@ header h1
 	font-size: 36px;
 	margin-right: 2%;
 	height: 100vh;
+	overflow: auto;
 }
 
-.right
-{
+.right {
 	box-sizing: border-box;
 	float: right;
 	width: 68%;
+	position: static;
 }
 
 
