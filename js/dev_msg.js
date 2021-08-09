@@ -1,2 +1,4 @@
 // JavaScript source code
-alert("This website is still under development");
+function Development_Msg() {
+    alert("This website is still under development");
+}
