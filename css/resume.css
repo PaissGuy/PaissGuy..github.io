@@ -175,3 +175,13 @@ a.inner {
     background-color: #ffcb05;
     text-decoration: underline;
 }
+
+.carousel-control-prev{
+    color: black;
+    background-color:black;
+}
+
+.carousel-control-next {
+    color: black;
+    background-color: black;
+}
